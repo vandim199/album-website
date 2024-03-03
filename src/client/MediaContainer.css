@@ -1,0 +1,10 @@
+.MediaContainer {
+  background-color: rgb(75, 75, 75);
+  border-radius: 30px;
+  margin: 30px;
+  height: fit-content;
+}
+.MediaContainer * {
+  margin: 20px;
+  width: 300px;
+}
